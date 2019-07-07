@@ -1,0 +1,1 @@
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal.UWP\MemoryFinal.UWP.csproj;x86

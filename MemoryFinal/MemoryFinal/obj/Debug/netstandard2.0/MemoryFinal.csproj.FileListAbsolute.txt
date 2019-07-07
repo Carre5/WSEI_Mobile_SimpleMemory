@@ -1,0 +1,13 @@
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\bin\Debug\netstandard2.0\MemoryFinal.deps.json
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\bin\Debug\netstandard2.0\MemoryFinal.dll
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\bin\Debug\netstandard2.0\MemoryFinal.pdb
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\MemoryFinal.csproj.CoreCompileInputs.cache
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\MemoryFinal.AssemblyInfoInputs.cache
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\MemoryFinal.AssemblyInfo.cs
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\MemoryFinal.dll
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\MemoryFinal.pdb
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\MemoryFinal.csprojAssemblyReference.cache
+C:\Users\mpyjos\source\repos\MemoryFinal\MemoryFinal\MemoryFinal\obj\Debug\netstandard2.0\Game.xaml.g.cs
